@@ -1,5 +1,6 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 # Header
-# ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 Footnote I got it
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+![image of a great painting](https://github.com/BobbyShurcher/skills-communicate-using-markdown/assets/156851619/46c90642-a29c-4fe1-a889-fd9446477e01)
